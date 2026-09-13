@@ -1,0 +1,7 @@
+{
+  "name": "AutoCraft - 車両入庫予約・工程・チェック管理",
+  "description": "自動車整備・板金工場向け車両入庫予約・12段階工程進捗管理・12項目車両チェックリアルタイム共有システム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
